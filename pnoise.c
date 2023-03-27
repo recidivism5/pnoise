@@ -1,3 +1,4 @@
+#include <stdlib.h>
 typedef int u32;
 #define FOR(var,count) for(int var = 0; var < (count); var++)
 float fade(float t){
